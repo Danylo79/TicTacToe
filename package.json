@@ -1,0 +1,17 @@
+{
+  "name": "cloudgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "cookie-session": "^1.4.0",
+    "express": "^4.17.1",
+    "open-iconic": "^1.1.1"
+  }
+}

@@ -1,0 +1,14 @@
+.oi {
+    color: black;
+}
+
+ul.events {
+    padding: 0;
+    max-height: 50vh;
+    overflow-y: scroll;
+}
+
+.events li {
+    list-style: none;
+    text-align: left;
+}
